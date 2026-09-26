@@ -1,0 +1,67 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #070b14;
+    color: #e2e8f0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    overflow-x: hidden;
+  }
+}
+
+/* Glassmorphism custom classes */
+.materials-glass {
+  background: rgba(15, 23, 42, 0.75);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(51, 65, 85, 0.4);
+}
+
+.materials-glass-hover:hover {
+  background: rgba(30, 41, 59, 0.85);
+  border-color: rgba(16, 185, 129, 0.4);
+}
+
+.materials-card {
+  background: linear-gradient(135deg, rgba(15, 23, 42, 0.8) 0%, rgba(30, 41, 59, 0.6) 100%);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(51, 65, 85, 0.5);
+  border-radius: 1rem;
+}
+
+.eco-glow {
+  box-shadow: 0 0 25px rgba(16, 185, 129, 0.25);
+}
+
+.solar-glow {
+  box-shadow: 0 0 25px rgba(245, 158, 11, 0.25);
+}
+
+.cyan-glow {
+  box-shadow: 0 0 25px rgba(6, 182, 212, 0.25);
+}
+
+/* Hide scrollbar for clean horizontal tab rows */
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-none {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Thin styled scrollbars for tables */
+.scrollbar-thin::-webkit-scrollbar {
+  height: 6px;
+  width: 6px;
+}
+.scrollbar-thin::-webkit-scrollbar-track {
+  background: #0f172a;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 3px;
+}
+.scrollbar-thin::-webkit-scrollbar-thumb:hover {
+  background: #10b981;
+}

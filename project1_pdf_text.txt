@@ -1,0 +1,263 @@
+=== PAGE 1 ===
+FERROCEMENT
+WALL PANELS 
+FOR
+CONSTRUCTION
+Group Members
+210016R - Abhirami T.
+210070B - Bibulewela P.A.C. 
+210381E - Mayoorathan K.
+210494D - Premakumara H.P.C.
+210640A- Themiya K.L.
+MN 4023 - Individual Assignment
+
+
+=== PAGE 2 ===
+Product: 
+Prefabricated ferrocement wall panel made of a cement–
+sand mortar reinforced with wire mesh, suitable for modular
+walls in toilets, tanks, and housing units.
+Existing Issues: 
+Current prototypes at NERDC face cracking during
+lifting/handling and excessive self-weight, making transport
+and installation difficult.
+Final Goal: 
+To create an optimized, durable, and sustainable wall panel
+- reducing weight, preventing cracks.
+Introduction
+2
+
+
+=== PAGE 3 ===
+Materials
+River sand, M-sand, fly ash,
+bottom ash, rice husk ash
+✅
+Reinforcement &
+connections
+wire mesh, mild steel plates, tor
+steel
+✅
+Equipment
+mixing, moulding, curing facilities,
+masonry tools
+✅
+COMSOL linear-elastic
+static analysis 
+simply supported at
+short edges
+load = self-weight.
+TECHNICAL FEASIBILITY
+Method 
+Resources
+Institutes: NERDC,
+UoM 
+Human capability
+Technology transfer 
+Expertise
+1. Reinforcement layout
+2.Cured panels
+3
+
+
+=== PAGE 4 ===
+a) 40 mm panel (solid)
+b) 60 mm panel (solid)
+c) 60 mm 3-core panel
+FE Analysis
+4
+
+
+=== PAGE 5 ===
+Financial Analysis
+Capital Expenditure
+Operational and
+Maintenance Costs
+Tax
+Total Cost per panel ⁓
+4200 LKR 
+Cash Outflows
+Panel Sales
+Salvage Value
+Selling Price of a panel =
+7000 LKR
+Cash Inflows
+5
+
+
+=== PAGE 6 ===
+NPV: 12.45 LKR mn ✅
+IRR: 26.36% ✅
+BCR: 1.204 ✅
+Disc. PBP: 3.25 ✅
+Performance Indicators
+6
+
+
+=== PAGE 7 ===
+Economical Analysis
+Capital Expenditure
+Materials & Labour
+Operation & Maintenance
+Environmental Management
+Costs
+Panel Sales
+Employment
+Environmental Benefits
+Time Saving
+Salvage Value
+Benefits
+NPV: 30.1 LKR mn ✅
+IRR: 37.4% ✅
+BCR: 1.8792 ✅
+Disc. PBP: 1.83 ✅
+Performance Indicators
+7
+
+
+=== PAGE 8 ===
+Criterion
+Clay Brick
+Concrete
+Brick
+RC Wall
+Panel
+Ferrocement
+Panel
+Cost (40%)
+3.5
+4
+3
+5
+Time/speed (25%)
+1.5
+2
+4
+5
+Environmental (15%)
+2
+2.5
+2
+3.5
+Durability (20%)
+5
+4
+3
+3.5
+Weighted Score
+3.075
+3.275
+3.100
+4.475
+Multi Criteria Analysis
+8
+
+
+=== PAGE 9 ===
+Selling Price
+Material Cost
+Discount Rate
+Main Factors
+9
+Sensitivity Analysis
+
+
+=== PAGE 10 ===
+Lower resource consumption
+Reduced embodied energy
+Less on-site waste
+Reusing waste
+Less noisy
+Benefits
+Environmental Analysis
+Cement footprint
+Mesh corrosion waste
+Transport emissions
+End-of-life recycling challenge
+Water use in curing
+Drawbacks
+10
+
+
+=== PAGE 11 ===
+Employment diversification
+Reskilling opportunities
+Affordable housing
+Community uplift
+Cleaner and safer sites
+Time efficiency
+Benefits
+Social Analysis
+Labor displacement
+Cultural resistance
+Skill gap
+Quality inconsistency risk
+Urban–rural imbalance
+End-of-life waste
+Drawbacks
+11
+
+
+=== PAGE 12 ===
+Category
+Main Risks
+Severity
+Mitigation Strategy
+Technical
+Panel cracks, mesh
+corrosion
+High
+Design optimization,
+protective coatings,
+handling trials
+Testing / Process
+High testing cost, durability
+uncertainty
+Medium
+Lab partnerships,
+accelerated testing
+Market & Social
+Low demand, public
+reluctance
+High
+Awareness campaigns, pilot
+houses
+Regulatory
+Approval delays
+Medium
+Early engagement,
+certifications
+Health & Safety
+Worker injury
+High
+PPE, lifting guides, safety
+training
+Environmental
+Waste generation
+Low
+Reuse and recycling
+Aesthetic
+Surface finish defects
+Low
+QC and surface coating
+Risk Assessment
+12
+
+
+=== PAGE 13 ===
+Final Recommendation
+13
+The ferrocement wall panel development project is
+technically sound, financially viable, and
+economically beneficial.
+It reduces cost, time, and CO₂ emissions while
+creating local employment.
+Recommended for implementation and scale-up
+under NERDC–UoM collaboration.
+
+
+=== PAGE 14 ===
+THANK
+YOU
+
+
