@@ -1,5 +1,5 @@
 import React from 'react';
-import { GraduationCap, Heart, Building2, Sun } from 'lucide-react';
+import { GraduationCap, Heart, Building2, Sun, ExternalLink } from 'lucide-react';
 import { INSTITUTIONAL_METADATA, PROJECT_AUTHORS } from '../data/engEcoData.ts';
 
 export const Footer: React.FC = () => {
@@ -43,6 +43,27 @@ export const Footer: React.FC = () => {
             <span>Published with open-access data and reproducible models</span>
           </div>
         </div>
+                      <div className="flex items-center gap-4 text-xs">
+            <a
+              href="https://github.com/premakumarahps/fbca-ebca-eng-eco"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-slate-400 hover:text-white transition-colors flex items-center gap-1"
+            >
+              <span>GitHub Repository</span>
+              <ExternalLink className="w-3.5 h-3.5" />
+            </a>
+            <a
+              href="https://premakumarahps.vercel.app/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-slate-400 hover:text-white transition-colors flex items-center gap-1"
+            >
+              <span>Main Portfolio</span>
+              <ExternalLink className="w-3.5 h-3.5" />
+            </a>
+          </div>
+
       </div>
     </footer>
   );
